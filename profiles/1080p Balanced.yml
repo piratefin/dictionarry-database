@@ -117,9 +117,9 @@ custom_formats:
 - name: Full Disc (Quality Match)
   score: -9999
 - name: h265
-  score: -9999
+  score: 1000
 - name: h265 (Missing)
-  score: -9999
+  score: 1000
 - name: HDR
   score: -9999
 - name: HDR10
@@ -137,9 +137,9 @@ custom_formats:
 - name: Upscaled
   score: -9999
 - name: x265
-  score: -9999
+  score: 1000
 - name: x265 (Missing)
-  score: -9999
+  score: 1000
 qualities:
 - id: -1
   name: Balanced capable
